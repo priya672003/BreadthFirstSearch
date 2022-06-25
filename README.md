@@ -1,4 +1,8 @@
-# Breadth First Search
+### EX.NO : 02
+
+### DATE : 28/04/2022
+
+# <p align="center"> Breadth First Search </p>
 ## AIM
 
 To develop an algorithm to find the route from the source to the destination point using breadth-first search.
