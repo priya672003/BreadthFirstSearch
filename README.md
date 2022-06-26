@@ -35,6 +35,12 @@ End the program.
 
 ## PROGRAM
 
+### DEVELOPED BY
+
+### NAME:  PRIYADARSHINI R
+
+### REG.NO :  212220230038
+
 ```python3
 
 %matplotlib inline
